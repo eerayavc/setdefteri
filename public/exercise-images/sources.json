@@ -1,0 +1,1730 @@
+{
+  "Bench Press": {
+    "images": [
+      {
+        "src": "/exercise-images/ever-0042-0.webp",
+        "author": "Everkinetic / Greg Priday",
+        "source": "https://raw.githubusercontent.com/everkinetic/data/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/src/images-web/bench-press-1.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      {
+        "src": "/exercise-images/ever-0042-1.webp",
+        "author": "Everkinetic / Greg Priday",
+        "source": "https://raw.githubusercontent.com/everkinetic/data/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/src/images-web/bench-press-2.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      }
+    ]
+  },
+  "Incline Dumbbell Press": {
+    "images": [
+      {
+        "src": "/exercise-images/ever-0061-0.webp",
+        "author": "Everkinetic / Greg Priday",
+        "source": "https://raw.githubusercontent.com/everkinetic/data/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/src/images-web/dumbbell-incline-bench-press-1.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      {
+        "src": "/exercise-images/ever-0061-1.webp",
+        "author": "Everkinetic / Greg Priday",
+        "source": "https://raw.githubusercontent.com/everkinetic/data/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/src/images-web/dumbbell-incline-bench-press-2.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      }
+    ]
+  },
+  "Chest Fly Machine": {
+    "images": [
+      {
+        "src": "/exercise-images/ever-0047-0.webp",
+        "author": "Everkinetic / Greg Priday",
+        "source": "https://raw.githubusercontent.com/everkinetic/data/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/src/images-web/butterfly-machine-1.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      {
+        "src": "/exercise-images/ever-0047-1.webp",
+        "author": "Everkinetic / Greg Priday",
+        "source": "https://raw.githubusercontent.com/everkinetic/data/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/src/images-web/butterfly-machine-2.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      }
+    ]
+  },
+  "Chest Press Machine": {
+    "images": [
+      {
+        "src": "/exercise-images/ever-0066-0.webp",
+        "author": "Everkinetic / Greg Priday",
+        "source": "https://raw.githubusercontent.com/everkinetic/data/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/src/images-web/machine-bench-press-1.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      {
+        "src": "/exercise-images/ever-0066-1.webp",
+        "author": "Everkinetic / Greg Priday",
+        "source": "https://raw.githubusercontent.com/everkinetic/data/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/src/images-web/machine-bench-press-2.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      }
+    ]
+  },
+  "Cable Crossover": {
+    "images": [
+      {
+        "src": "/exercise-images/ever-0048-0.webp",
+        "author": "Everkinetic / Greg Priday",
+        "source": "https://raw.githubusercontent.com/everkinetic/data/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/src/images-web/cable-crossover-1.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      {
+        "src": "/exercise-images/ever-0048-1.webp",
+        "author": "Everkinetic / Greg Priday",
+        "source": "https://raw.githubusercontent.com/everkinetic/data/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/src/images-web/cable-crossover-2.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      }
+    ]
+  },
+  "Lat Pulldown": {
+    "images": [
+      {
+        "src": "/exercise-images/ever-0097-0.webp",
+        "author": "Everkinetic / Greg Priday",
+        "source": "https://raw.githubusercontent.com/everkinetic/data/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/src/images-web/wide-grip-lat-pull-down-1.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      {
+        "src": "/exercise-images/ever-0097-1.webp",
+        "author": "Everkinetic / Greg Priday",
+        "source": "https://raw.githubusercontent.com/everkinetic/data/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/src/images-web/wide-grip-lat-pull-down-2.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      }
+    ]
+  },
+  "Seated Cable Row": {
+    "images": [
+      {
+        "src": "/exercise-images/ever-0025-0.webp",
+        "author": "Everkinetic / Greg Priday",
+        "source": "https://raw.githubusercontent.com/everkinetic/data/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/src/images-web/seated-cable-rows-1.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      {
+        "src": "/exercise-images/ever-0025-1.webp",
+        "author": "Everkinetic / Greg Priday",
+        "source": "https://raw.githubusercontent.com/everkinetic/data/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/src/images-web/seated-cable-rows-2.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      }
+    ]
+  },
+  "Dumbbell Row": {
+    "images": [
+      {
+        "src": "/exercise-images/w81-0.webp",
+        "author": "Franpol",
+        "source": "https://wger.de/media/exercise-images/81/a751a438-ae2d-4751-8d61-cef0e9292174.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      }
+    ]
+  },
+  "Straight Arm Pulldown": {
+    "images": [
+      {
+        "src": "/exercise-images/ever-0092-0.webp",
+        "author": "Everkinetic / Greg Priday",
+        "source": "https://raw.githubusercontent.com/everkinetic/data/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/src/images-web/straight-arm-push-down-1.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      {
+        "src": "/exercise-images/ever-0092-1.webp",
+        "author": "Everkinetic / Greg Priday",
+        "source": "https://raw.githubusercontent.com/everkinetic/data/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/src/images-web/straight-arm-push-down-2.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      }
+    ]
+  },
+  "Dumbbell Shoulder Press": {
+    "images": [
+      {
+        "src": "/exercise-images/ever-0012-0.webp",
+        "author": "Everkinetic / Greg Priday",
+        "source": "https://raw.githubusercontent.com/everkinetic/data/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/src/images-web/dumbbell-shoulder-press-1.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      {
+        "src": "/exercise-images/ever-0012-1.webp",
+        "author": "Everkinetic / Greg Priday",
+        "source": "https://raw.githubusercontent.com/everkinetic/data/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/src/images-web/dumbbell-shoulder-press-2.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      }
+    ]
+  },
+  "Lateral Raise": {
+    "images": [
+      {
+        "src": "/exercise-images/ever-0018-0.webp",
+        "author": "Everkinetic / Greg Priday",
+        "source": "https://raw.githubusercontent.com/everkinetic/data/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/src/images-web/lateral-dumbbell-raises-1.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      {
+        "src": "/exercise-images/ever-0018-1.webp",
+        "author": "Everkinetic / Greg Priday",
+        "source": "https://raw.githubusercontent.com/everkinetic/data/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/src/images-web/lateral-dumbbell-raises-2.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      }
+    ]
+  },
+  "Dumbbell Curl": {
+    "images": [
+      {
+        "src": "/exercise-images/ever-0224-0.webp",
+        "author": "Everkinetic / Greg Priday",
+        "source": "https://raw.githubusercontent.com/everkinetic/data/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/src/images-web/biceps-curl-with-dumbbell-1.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      {
+        "src": "/exercise-images/ever-0224-1.webp",
+        "author": "Everkinetic / Greg Priday",
+        "source": "https://raw.githubusercontent.com/everkinetic/data/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/src/images-web/biceps-curl-with-dumbbell-2.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      }
+    ]
+  },
+  "Hammer Curl": {
+    "images": [
+      {
+        "src": "/exercise-images/ever-0227-0.webp",
+        "author": "Everkinetic / Greg Priday",
+        "source": "https://raw.githubusercontent.com/everkinetic/data/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/src/images-web/bicep-hammer-curl-with-dumbbell-1.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      {
+        "src": "/exercise-images/ever-0227-1.webp",
+        "author": "Everkinetic / Greg Priday",
+        "source": "https://raw.githubusercontent.com/everkinetic/data/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/src/images-web/bicep-hammer-curl-with-dumbbell-2.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      }
+    ]
+  },
+  "Cable Curl": {
+    "images": [
+      {
+        "src": "/exercise-images/ever-0212-0.webp",
+        "author": "Everkinetic / Greg Priday",
+        "source": "https://raw.githubusercontent.com/everkinetic/data/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/src/images-web/standing-biceps-curl-with-cable-1.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      {
+        "src": "/exercise-images/ever-0212-1.webp",
+        "author": "Everkinetic / Greg Priday",
+        "source": "https://raw.githubusercontent.com/everkinetic/data/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/src/images-web/standing-biceps-curl-with-cable-2.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      }
+    ]
+  },
+  "Preacher Curl": {
+    "images": [
+      {
+        "src": "/exercise-images/ever-0239-0.webp",
+        "author": "Everkinetic / Greg Priday",
+        "source": "https://raw.githubusercontent.com/everkinetic/data/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/src/images-web/preacher-curl-with-barbell-1.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      {
+        "src": "/exercise-images/ever-0239-1.webp",
+        "author": "Everkinetic / Greg Priday",
+        "source": "https://raw.githubusercontent.com/everkinetic/data/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/src/images-web/preacher-curl-with-barbell-2.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      }
+    ]
+  },
+  "Triceps Pushdown": {
+    "images": [
+      {
+        "src": "/exercise-images/ever-0205-0.webp",
+        "author": "Everkinetic / Greg Priday",
+        "source": "https://raw.githubusercontent.com/everkinetic/data/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/src/images-web/triceps-pushdown-with-cable-1.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      {
+        "src": "/exercise-images/ever-0205-1.webp",
+        "author": "Everkinetic / Greg Priday",
+        "source": "https://raw.githubusercontent.com/everkinetic/data/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/src/images-web/triceps-pushdown-with-cable-2.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      }
+    ]
+  },
+  "Overhead Cable Extension": {
+    "images": [
+      {
+        "src": "/exercise-images/ever-0198-0.webp",
+        "author": "Everkinetic / Greg Priday",
+        "source": "https://raw.githubusercontent.com/everkinetic/data/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/src/images-web/standing-triceps-extension-2-1.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      {
+        "src": "/exercise-images/ever-0198-1.webp",
+        "author": "Everkinetic / Greg Priday",
+        "source": "https://raw.githubusercontent.com/everkinetic/data/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/src/images-web/standing-triceps-extension-2-2.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      }
+    ]
+  },
+  "Dumbbell Triceps Extension": {
+    "images": [
+      {
+        "src": "/exercise-images/ever-0194-0.webp",
+        "author": "Everkinetic / Greg Priday",
+        "source": "https://raw.githubusercontent.com/everkinetic/data/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/src/images-web/seated-triceps-press-with-dumbbell-1.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      {
+        "src": "/exercise-images/ever-0194-1.webp",
+        "author": "Everkinetic / Greg Priday",
+        "source": "https://raw.githubusercontent.com/everkinetic/data/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/src/images-web/seated-triceps-press-with-dumbbell-2.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      }
+    ]
+  },
+  "Leg Press": {
+    "images": [
+      {
+        "src": "/exercise-images/ever-0127-0.webp",
+        "author": "Everkinetic / Greg Priday",
+        "source": "https://raw.githubusercontent.com/everkinetic/data/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/src/images-web/leg-press-1.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      {
+        "src": "/exercise-images/ever-0127-1.webp",
+        "author": "Everkinetic / Greg Priday",
+        "source": "https://raw.githubusercontent.com/everkinetic/data/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/src/images-web/leg-press-2.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      }
+    ]
+  },
+  "Leg Extension": {
+    "images": [
+      {
+        "src": "/exercise-images/ever-0142-0.webp",
+        "author": "Everkinetic / Greg Priday",
+        "source": "https://raw.githubusercontent.com/everkinetic/data/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/src/images-web/leg-extensions-1.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      {
+        "src": "/exercise-images/ever-0142-1.webp",
+        "author": "Everkinetic / Greg Priday",
+        "source": "https://raw.githubusercontent.com/everkinetic/data/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/src/images-web/leg-extensions-2.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      }
+    ]
+  },
+  "Leg Curl": {
+    "images": [
+      {
+        "src": "/exercise-images/ever-0117-0.webp",
+        "author": "Everkinetic / Greg Priday",
+        "source": "https://raw.githubusercontent.com/everkinetic/data/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/src/images-web/lying-leg-curl-machine-1.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      {
+        "src": "/exercise-images/ever-0117-1.webp",
+        "author": "Everkinetic / Greg Priday",
+        "source": "https://raw.githubusercontent.com/everkinetic/data/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/src/images-web/lying-leg-curl-machine-2.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      }
+    ]
+  },
+  "Squat Machine": {
+    "images": [
+      {
+        "src": "/exercise-images/ever-0124-0.webp",
+        "author": "Everkinetic / Greg Priday",
+        "source": "https://raw.githubusercontent.com/everkinetic/data/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/src/images-web/smith-machine-squats-1.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      {
+        "src": "/exercise-images/ever-0124-1.webp",
+        "author": "Everkinetic / Greg Priday",
+        "source": "https://raw.githubusercontent.com/everkinetic/data/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/src/images-web/smith-machine-squats-2.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      }
+    ],
+    "note": "Smith makinesiyle squat örneği. Diğer squat makinelerinin düzeni farklı olabilir."
+  },
+  "Romanian Deadlift": {
+    "images": [
+      {
+        "src": "/exercise-images/ever-0118-0.webp",
+        "author": "Everkinetic / Greg Priday",
+        "source": "https://raw.githubusercontent.com/everkinetic/data/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/src/images-web/romanian-dead-lift-1.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      {
+        "src": "/exercise-images/ever-0118-1.webp",
+        "author": "Everkinetic / Greg Priday",
+        "source": "https://raw.githubusercontent.com/everkinetic/data/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/src/images-web/romanian-dead-lift-2.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      }
+    ]
+  },
+  "Calf Raise": {
+    "images": [
+      {
+        "src": "/exercise-images/ever-0282-0.webp",
+        "author": "Everkinetic / Greg Priday",
+        "source": "https://raw.githubusercontent.com/everkinetic/data/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/src/images-web/standing-calf-raises-using-machine-1.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      {
+        "src": "/exercise-images/ever-0282-1.webp",
+        "author": "Everkinetic / Greg Priday",
+        "source": "https://raw.githubusercontent.com/everkinetic/data/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/src/images-web/standing-calf-raises-using-machine-2.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      }
+    ]
+  },
+  "Cable Crunch": {
+    "images": [
+      {
+        "src": "/exercise-images/ever-0288-0.webp",
+        "author": "Everkinetic / Greg Priday",
+        "source": "https://raw.githubusercontent.com/everkinetic/data/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/src/images-web/seated-ab-crunch-with-cable-1.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      {
+        "src": "/exercise-images/ever-0288-1.webp",
+        "author": "Everkinetic / Greg Priday",
+        "source": "https://raw.githubusercontent.com/everkinetic/data/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/src/images-web/seated-ab-crunch-with-cable-2.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      }
+    ],
+    "note": "Oturarak kablolu karın çalışması örneği; diz üstü uygulama da bulunur."
+  },
+  "Crunch": {
+    "images": [
+      {
+        "src": "/exercise-images/ever-0291-0.webp",
+        "author": "Everkinetic / Greg Priday",
+        "source": "https://raw.githubusercontent.com/everkinetic/data/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/src/images-web/crunches-1.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      {
+        "src": "/exercise-images/ever-0291-1.webp",
+        "author": "Everkinetic / Greg Priday",
+        "source": "https://raw.githubusercontent.com/everkinetic/data/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/src/images-web/crunches-2.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      }
+    ]
+  },
+  "Leg Raise": {
+    "images": [
+      {
+        "src": "/exercise-images/ever-0021-0.webp",
+        "author": "Everkinetic / Greg Priday",
+        "source": "https://raw.githubusercontent.com/everkinetic/data/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/src/images-web/flat-bench-leg-raises-1.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      {
+        "src": "/exercise-images/ever-0021-1.webp",
+        "author": "Everkinetic / Greg Priday",
+        "source": "https://raw.githubusercontent.com/everkinetic/data/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/src/images-web/flat-bench-leg-raises-2.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      }
+    ]
+  },
+  "Dumbbell Bench Press": {
+    "images": [
+      {
+        "src": "/exercise-images/ever-0055-0.webp",
+        "author": "Everkinetic / Greg Priday",
+        "source": "https://raw.githubusercontent.com/everkinetic/data/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/src/images-web/bench-press-dumbbell-1.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      {
+        "src": "/exercise-images/ever-0055-1.webp",
+        "author": "Everkinetic / Greg Priday",
+        "source": "https://raw.githubusercontent.com/everkinetic/data/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/src/images-web/bench-press-dumbbell-2.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      }
+    ]
+  },
+  "Incline Barbell Bench Press": {
+    "images": [
+      {
+        "src": "/exercise-images/ever-0043-0.webp",
+        "author": "Everkinetic / Greg Priday",
+        "source": "https://raw.githubusercontent.com/everkinetic/data/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/src/images-web/incline-bench-press-1.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      {
+        "src": "/exercise-images/ever-0043-1.webp",
+        "author": "Everkinetic / Greg Priday",
+        "source": "https://raw.githubusercontent.com/everkinetic/data/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/src/images-web/incline-bench-press-2.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      }
+    ]
+  },
+  "Decline Barbell Bench Press": {
+    "images": [
+      {
+        "src": "/exercise-images/ever-0051-0.webp",
+        "author": "Everkinetic / Greg Priday",
+        "source": "https://raw.githubusercontent.com/everkinetic/data/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/src/images-web/decline-barbell-bench-press-1.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      {
+        "src": "/exercise-images/ever-0051-1.webp",
+        "author": "Everkinetic / Greg Priday",
+        "source": "https://raw.githubusercontent.com/everkinetic/data/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/src/images-web/decline-barbell-bench-press-2.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      }
+    ]
+  },
+  "Incline Chest Press Machine": {
+    "images": [
+      {
+        "src": "/exercise-images/ever-0084-0.webp",
+        "author": "Everkinetic / Greg Priday",
+        "source": "https://raw.githubusercontent.com/everkinetic/data/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/src/images-web/incline-chest-press-1.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      {
+        "src": "/exercise-images/ever-0084-1.webp",
+        "author": "Everkinetic / Greg Priday",
+        "source": "https://raw.githubusercontent.com/everkinetic/data/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/src/images-web/incline-chest-press-2.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      }
+    ]
+  },
+  "Dumbbell Fly": {
+    "images": [
+      {
+        "src": "/exercise-images/ever-0056-0.webp",
+        "author": "Everkinetic / Greg Priday",
+        "source": "https://raw.githubusercontent.com/everkinetic/data/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/src/images-web/dumbbell-flys-1.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      {
+        "src": "/exercise-images/ever-0056-1.webp",
+        "author": "Everkinetic / Greg Priday",
+        "source": "https://raw.githubusercontent.com/everkinetic/data/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/src/images-web/dumbbell-flys-2.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      }
+    ]
+  },
+  "Incline Dumbbell Fly": {
+    "images": [
+      {
+        "src": "/exercise-images/ever-0062-0.webp",
+        "author": "Everkinetic / Greg Priday",
+        "source": "https://raw.githubusercontent.com/everkinetic/data/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/src/images-web/incline-dumbbell-flys-1.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      {
+        "src": "/exercise-images/ever-0062-1.webp",
+        "author": "Everkinetic / Greg Priday",
+        "source": "https://raw.githubusercontent.com/everkinetic/data/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/src/images-web/incline-dumbbell-flys-2.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      }
+    ]
+  },
+  "Low-to-High Cable Fly": {
+    "images": [
+      {
+        "src": "/exercise-images/w1296-0.webp",
+        "author": "JackSparrow",
+        "source": "https://wger.de/media/exercise-images/1296/c42782fe-337a-44f4-9079-7f6dedab4885.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      }
+    ]
+  },
+  "Push-up (Şınav)": {
+    "images": [
+      {
+        "src": "/exercise-images/ever-0077-0.webp",
+        "author": "Everkinetic / Greg Priday",
+        "source": "https://raw.githubusercontent.com/everkinetic/data/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/src/images-web/push-ups-1.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      {
+        "src": "/exercise-images/ever-0077-1.webp",
+        "author": "Everkinetic / Greg Priday",
+        "source": "https://raw.githubusercontent.com/everkinetic/data/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/src/images-web/push-ups-2.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      }
+    ]
+  },
+  "Smith Machine Bench Press": {
+    "images": [
+      {
+        "src": "/exercise-images/ever-0078-0.webp",
+        "author": "Everkinetic / Greg Priday",
+        "source": "https://raw.githubusercontent.com/everkinetic/data/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/src/images-web/smith-machine-bench-press-1.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      {
+        "src": "/exercise-images/ever-0078-1.webp",
+        "author": "Everkinetic / Greg Priday",
+        "source": "https://raw.githubusercontent.com/everkinetic/data/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/src/images-web/smith-machine-bench-press-2.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      }
+    ]
+  },
+  "Chest Dip": {
+    "images": [
+      {
+        "src": "/exercise-images/ever-0054-0.webp",
+        "author": "Everkinetic / Greg Priday",
+        "source": "https://raw.githubusercontent.com/everkinetic/data/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/src/images-web/chest-dips-1.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      {
+        "src": "/exercise-images/ever-0054-1.webp",
+        "author": "Everkinetic / Greg Priday",
+        "source": "https://raw.githubusercontent.com/everkinetic/data/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/src/images-web/chest-dips-2.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      }
+    ]
+  },
+  "Pull-up (Barfiks)": {
+    "images": [
+      {
+        "src": "/exercise-images/ever-0087-0.webp",
+        "author": "Everkinetic / Greg Priday",
+        "source": "https://raw.githubusercontent.com/everkinetic/data/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/src/images-web/pull-ups-1.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      {
+        "src": "/exercise-images/ever-0087-1.webp",
+        "author": "Everkinetic / Greg Priday",
+        "source": "https://raw.githubusercontent.com/everkinetic/data/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/src/images-web/pull-ups-2.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      }
+    ]
+  },
+  "Chin-up": {
+    "images": [
+      {
+        "src": "/exercise-images/ever-0089-0.webp",
+        "author": "Everkinetic / Greg Priday",
+        "source": "https://raw.githubusercontent.com/everkinetic/data/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/src/images-web/chin-ups-1.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      {
+        "src": "/exercise-images/ever-0089-1.webp",
+        "author": "Everkinetic / Greg Priday",
+        "source": "https://raw.githubusercontent.com/everkinetic/data/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/src/images-web/chin-ups-2.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      }
+    ]
+  },
+  "Close Grip Lat Pulldown": {
+    "images": [
+      {
+        "src": "/exercise-images/ever-0096-0.webp",
+        "author": "Everkinetic / Greg Priday",
+        "source": "https://raw.githubusercontent.com/everkinetic/data/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/src/images-web/v-bar-pull-down-1.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      {
+        "src": "/exercise-images/ever-0096-1.webp",
+        "author": "Everkinetic / Greg Priday",
+        "source": "https://raw.githubusercontent.com/everkinetic/data/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/src/images-web/v-bar-pull-down-2.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      }
+    ]
+  },
+  "Reverse Grip Lat Pulldown": {
+    "images": [
+      {
+        "src": "/exercise-images/ever-0093-0.webp",
+        "author": "Everkinetic / Greg Priday",
+        "source": "https://raw.githubusercontent.com/everkinetic/data/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/src/images-web/underhand-pull-downs-1.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      {
+        "src": "/exercise-images/ever-0093-1.webp",
+        "author": "Everkinetic / Greg Priday",
+        "source": "https://raw.githubusercontent.com/everkinetic/data/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/src/images-web/underhand-pull-downs-2.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      }
+    ]
+  },
+  "Single Arm Cable Row": {
+    "images": [
+      {
+        "src": "/exercise-images/w1621-0.webp",
+        "author": "technofer",
+        "source": "https://wger.de/media/exercise-images/1621/ca1bc68d-9c36-4dd3-8ec4-496c57b5c564.jpg",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      {
+        "src": "/exercise-images/w1621-1.webp",
+        "author": "Rottekongen",
+        "source": "https://wger.de/media/exercise-images/1621/1bf3ee54-207c-4b53-b057-15adc1dd6128.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      }
+    ]
+  },
+  "Bent-over Barbell Row": {
+    "images": [
+      {
+        "src": "/exercise-images/w83-0.webp",
+        "author": "Everkinetic",
+        "source": "https://wger.de/media/exercise-images/109/Barbell-rear-delt-row-1.png",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
+      },
+      {
+        "src": "/exercise-images/w83-1.webp",
+        "author": "Everkinetic",
+        "source": "https://wger.de/media/exercise-images/109/Barbell-rear-delt-row-2.png",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
+      }
+    ]
+  },
+  "Chest Supported Dumbbell Row": {
+    "images": [
+      {
+        "src": "/exercise-images/w1283-0.webp",
+        "author": "carlos3c",
+        "source": "https://wger.de/media/exercise-images/1283/e7262f70-7512-408a-8d00-4c499ef632fc.jpg",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      }
+    ]
+  },
+  "T-Bar Row": {
+    "images": [
+      {
+        "src": "/exercise-images/guide-t-bar-row-1.webp",
+        "author": "Bryl Lim / Everkinetic",
+        "source": "https://raw.githubusercontent.com/bryllim/workout-guide/aac599224bb9780305239607ef98540b7e0ce389/packages/workout-guide/assets/t-bar-row/frame-1.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      {
+        "src": "/exercise-images/guide-t-bar-row-2.webp",
+        "author": "Bryl Lim / Everkinetic",
+        "source": "https://raw.githubusercontent.com/bryllim/workout-guide/aac599224bb9780305239607ef98540b7e0ce389/packages/workout-guide/assets/t-bar-row/frame-2.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      }
+    ]
+  },
+  "Seated Row Machine": {
+    "images": [
+      {
+        "src": "/exercise-images/w1725-0.webp",
+        "author": "barry",
+        "source": "https://wger.de/media/exercise-images/1725/f0ebd44e-b8e1-400c-b598-ca371f3a07af.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      }
+    ]
+  },
+  "Low Row Machine": {
+    "images": [
+      {
+        "src": "/exercise-images/w1725-0.webp",
+        "author": "barry",
+        "source": "https://wger.de/media/exercise-images/1725/f0ebd44e-b8e1-400c-b598-ca371f3a07af.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      }
+    ],
+    "note": "Göğüs destekli row makinesi örneği. Salonundaki makinenin modeli ve tutuşu farklı olabilir."
+  },
+  "Back Extension": {
+    "images": [
+      {
+        "src": "/exercise-images/ever-0103-0.webp",
+        "author": "Everkinetic / Greg Priday",
+        "source": "https://raw.githubusercontent.com/everkinetic/data/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/src/images-web/hyperextensions-1.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      {
+        "src": "/exercise-images/ever-0103-1.webp",
+        "author": "Everkinetic / Greg Priday",
+        "source": "https://raw.githubusercontent.com/everkinetic/data/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/src/images-web/hyperextensions-2.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      }
+    ]
+  },
+  "Barbell Overhead Press": {
+    "images": [
+      {
+        "src": "/exercise-images/ever-0004-0.webp",
+        "author": "Everkinetic / Greg Priday",
+        "source": "https://raw.githubusercontent.com/everkinetic/data/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/src/images-web/seated-military-press-1.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      {
+        "src": "/exercise-images/ever-0004-1.webp",
+        "author": "Everkinetic / Greg Priday",
+        "source": "https://raw.githubusercontent.com/everkinetic/data/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/src/images-web/seated-military-press-2.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      }
+    ],
+    "note": "Oturarak barbell press örneği; ayakta uygulama da bulunur."
+  },
+  "Shoulder Press Machine": {
+    "images": [
+      {
+        "src": "/exercise-images/ever-0003-0.webp",
+        "author": "Everkinetic / Greg Priday",
+        "source": "https://raw.githubusercontent.com/everkinetic/data/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/src/images-web/seated-shoulder-press-machine-1.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      {
+        "src": "/exercise-images/ever-0003-1.webp",
+        "author": "Everkinetic / Greg Priday",
+        "source": "https://raw.githubusercontent.com/everkinetic/data/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/src/images-web/seated-shoulder-press-machine-2.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      }
+    ]
+  },
+  "Arnold Press": {
+    "images": [
+      {
+        "src": "/exercise-images/ever-0006-0.webp",
+        "author": "Everkinetic / Greg Priday",
+        "source": "https://raw.githubusercontent.com/everkinetic/data/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/src/images-web/arnold-press-1.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      {
+        "src": "/exercise-images/ever-0006-1.webp",
+        "author": "Everkinetic / Greg Priday",
+        "source": "https://raw.githubusercontent.com/everkinetic/data/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/src/images-web/arnold-press-2.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      }
+    ]
+  },
+  "Cable Lateral Raise": {
+    "images": [
+      {
+        "src": "/exercise-images/guide-cable-lateral-raise-1.webp",
+        "author": "Bryl Lim / Everkinetic",
+        "source": "https://raw.githubusercontent.com/bryllim/workout-guide/aac599224bb9780305239607ef98540b7e0ce389/packages/workout-guide/assets/cable-lateral-raise/frame-1.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      {
+        "src": "/exercise-images/guide-cable-lateral-raise-2.webp",
+        "author": "Bryl Lim / Everkinetic",
+        "source": "https://raw.githubusercontent.com/bryllim/workout-guide/aac599224bb9780305239607ef98540b7e0ce389/packages/workout-guide/assets/cable-lateral-raise/frame-2.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      }
+    ]
+  },
+  "Lateral Raise Machine": {
+    "images": [
+      {
+        "src": "/exercise-images/w1654-0.webp",
+        "author": "roneydya",
+        "source": "https://wger.de/media/exercise-images/1654/aa724a58-b3b5-4522-b278-1155416236a5.jpg",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      }
+    ]
+  },
+  "Dumbbell Front Raise": {
+    "images": [
+      {
+        "src": "/exercise-images/ever-0033-0.webp",
+        "author": "Everkinetic / Greg Priday",
+        "source": "https://raw.githubusercontent.com/everkinetic/data/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/src/images-web/front-dumbbell-raise-1.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      {
+        "src": "/exercise-images/ever-0033-1.webp",
+        "author": "Everkinetic / Greg Priday",
+        "source": "https://raw.githubusercontent.com/everkinetic/data/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/src/images-web/front-dumbbell-raise-2.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      }
+    ]
+  },
+  "Cable Front Raise": {
+    "images": [
+      {
+        "src": "/exercise-images/ever-0008-0.webp",
+        "author": "Everkinetic / Greg Priday",
+        "source": "https://raw.githubusercontent.com/everkinetic/data/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/src/images-web/front-cable-raises-1.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      {
+        "src": "/exercise-images/ever-0008-1.webp",
+        "author": "Everkinetic / Greg Priday",
+        "source": "https://raw.githubusercontent.com/everkinetic/data/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/src/images-web/front-cable-raises-2.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      }
+    ]
+  },
+  "Bent-over Dumbbell Reverse Fly": {
+    "images": [
+      {
+        "src": "/exercise-images/ever-0032-0.webp",
+        "author": "Everkinetic / Greg Priday",
+        "source": "https://raw.githubusercontent.com/everkinetic/data/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/src/images-web/bent-over-rear-deltoid-raise-with-head-on-bench-1.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      {
+        "src": "/exercise-images/ever-0032-1.webp",
+        "author": "Everkinetic / Greg Priday",
+        "source": "https://raw.githubusercontent.com/everkinetic/data/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/src/images-web/bent-over-rear-deltoid-raise-with-head-on-bench-2.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      }
+    ],
+    "note": "Baş destekli eğilerek ters açış örneği."
+  },
+  "Cable Reverse Fly": {
+    "images": [
+      {
+        "src": "/exercise-images/w822-0.webp",
+        "author": "cshep442",
+        "source": "https://wger.de/media/exercise-images/822/74affc0d-03b6-4f33-b5f4-a822a2615f68.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      {
+        "src": "/exercise-images/w822-1.webp",
+        "author": "cshep442",
+        "source": "https://wger.de/media/exercise-images/822/6a770e5d-cd62-4754-a18c-eebe2103d7c5.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      }
+    ]
+  },
+  "Dumbbell Shrug": {
+    "images": [
+      {
+        "src": "/exercise-images/ever-0005-0.webp",
+        "author": "Everkinetic / Greg Priday",
+        "source": "https://raw.githubusercontent.com/everkinetic/data/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/src/images-web/shoulder-shrugs-1.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      {
+        "src": "/exercise-images/ever-0005-1.webp",
+        "author": "Everkinetic / Greg Priday",
+        "source": "https://raw.githubusercontent.com/everkinetic/data/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/src/images-web/shoulder-shrugs-2.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      }
+    ]
+  },
+  "Barbell Curl": {
+    "images": [
+      {
+        "src": "/exercise-images/ever-0211-0.webp",
+        "author": "Everkinetic / Greg Priday",
+        "source": "https://raw.githubusercontent.com/everkinetic/data/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/dist/png/0211-relaxation.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      {
+        "src": "/exercise-images/ever-0211-1.webp",
+        "author": "Everkinetic / Greg Priday",
+        "source": "https://raw.githubusercontent.com/everkinetic/data/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/dist/png/0211-tension.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      }
+    ]
+  },
+  "EZ Bar Curl": {
+    "images": [
+      {
+        "src": "/exercise-images/ever-0226-0.webp",
+        "author": "Everkinetic / Greg Priday",
+        "source": "https://raw.githubusercontent.com/everkinetic/data/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/src/images-web/ez-bar-curl-with-barbell-1.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      {
+        "src": "/exercise-images/ever-0226-1.webp",
+        "author": "Everkinetic / Greg Priday",
+        "source": "https://raw.githubusercontent.com/everkinetic/data/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/src/images-web/ez-bar-curl-with-barbell-2.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      }
+    ]
+  },
+  "Incline Dumbbell Curl": {
+    "images": [
+      {
+        "src": "/exercise-images/ever-0214-0.webp",
+        "author": "Everkinetic / Greg Priday",
+        "source": "https://raw.githubusercontent.com/everkinetic/data/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/dist/png/0214-relaxation.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      {
+        "src": "/exercise-images/ever-0214-1.webp",
+        "author": "Everkinetic / Greg Priday",
+        "source": "https://raw.githubusercontent.com/everkinetic/data/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/dist/png/0214-tension.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      }
+    ]
+  },
+  "Concentration Curl": {
+    "images": [
+      {
+        "src": "/exercise-images/ever-0220-0.webp",
+        "author": "Everkinetic / Greg Priday",
+        "source": "https://raw.githubusercontent.com/everkinetic/data/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/dist/png/0220-relaxation.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      {
+        "src": "/exercise-images/ever-0220-1.webp",
+        "author": "Everkinetic / Greg Priday",
+        "source": "https://raw.githubusercontent.com/everkinetic/data/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/dist/png/0220-tension.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      }
+    ]
+  },
+  "Rope Hammer Curl": {
+    "images": [
+      {
+        "src": "/exercise-images/ever-0216-0.webp",
+        "author": "Everkinetic / Greg Priday",
+        "source": "https://raw.githubusercontent.com/everkinetic/data/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/src/images-web/hammer-curls-with-rope-and-cable-1.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      {
+        "src": "/exercise-images/ever-0216-1.webp",
+        "author": "Everkinetic / Greg Priday",
+        "source": "https://raw.githubusercontent.com/everkinetic/data/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/src/images-web/hammer-curls-with-rope-and-cable-2.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      }
+    ]
+  },
+  "Dumbbell Preacher Curl": {
+    "images": [
+      {
+        "src": "/exercise-images/ever-0237-0.webp",
+        "author": "Everkinetic / Greg Priday",
+        "source": "https://raw.githubusercontent.com/everkinetic/data/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/src/images-web/one-arm-preacher-curl-with-dumbbell-1.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      {
+        "src": "/exercise-images/ever-0237-1.webp",
+        "author": "Everkinetic / Greg Priday",
+        "source": "https://raw.githubusercontent.com/everkinetic/data/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/src/images-web/one-arm-preacher-curl-with-dumbbell-2.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      }
+    ]
+  },
+  "Biceps Curl Machine": {
+    "images": [
+      {
+        "src": "/exercise-images/ever-0253-0.webp",
+        "author": "Everkinetic / Greg Priday",
+        "source": "https://raw.githubusercontent.com/everkinetic/data/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/dist/png/0253-relaxation.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      {
+        "src": "/exercise-images/ever-0253-1.webp",
+        "author": "Everkinetic / Greg Priday",
+        "source": "https://raw.githubusercontent.com/everkinetic/data/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/dist/png/0253-tension.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      }
+    ]
+  },
+  "Spider Curl (Dumbbell)": {
+    "images": [
+      {
+        "src": "/exercise-images/ever-0225-0.webp",
+        "author": "Everkinetic / Greg Priday",
+        "source": "https://raw.githubusercontent.com/everkinetic/data/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/dist/png/0225-relaxation.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      {
+        "src": "/exercise-images/ever-0225-1.webp",
+        "author": "Everkinetic / Greg Priday",
+        "source": "https://raw.githubusercontent.com/everkinetic/data/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/dist/png/0225-tension.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      }
+    ]
+  },
+  "Cross Body Hammer Curl": {
+    "images": [
+      {
+        "src": "/exercise-images/ever-0221-0.webp",
+        "author": "Everkinetic / Greg Priday",
+        "source": "https://raw.githubusercontent.com/everkinetic/data/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/src/images-web/cross-body-hammer-curl-with-dumbbell-1.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      {
+        "src": "/exercise-images/ever-0221-1.webp",
+        "author": "Everkinetic / Greg Priday",
+        "source": "https://raw.githubusercontent.com/everkinetic/data/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/src/images-web/cross-body-hammer-curl-with-dumbbell-2.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      }
+    ]
+  },
+  "Rope Triceps Pushdown": {
+    "images": [
+      {
+        "src": "/exercise-images/ever-0206-0.webp",
+        "author": "Everkinetic / Greg Priday",
+        "source": "https://raw.githubusercontent.com/everkinetic/data/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/src/images-web/triceps-pushdown-with-rope-and-cable-1.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      {
+        "src": "/exercise-images/ever-0206-1.webp",
+        "author": "Everkinetic / Greg Priday",
+        "source": "https://raw.githubusercontent.com/everkinetic/data/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/src/images-web/triceps-pushdown-with-rope-and-cable-2.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      }
+    ]
+  },
+  "V-Bar Triceps Pushdown": {
+    "images": [
+      {
+        "src": "/exercise-images/ever-0207-0.webp",
+        "author": "Everkinetic / Greg Priday",
+        "source": "https://raw.githubusercontent.com/everkinetic/data/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/src/images-web/triceps-pushdown-with-v-bar-and-cable-1.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      {
+        "src": "/exercise-images/ever-0207-1.webp",
+        "author": "Everkinetic / Greg Priday",
+        "source": "https://raw.githubusercontent.com/everkinetic/data/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/src/images-web/triceps-pushdown-with-v-bar-and-cable-2.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      }
+    ]
+  },
+  "Single Arm Cable Pushdown": {
+    "images": [
+      {
+        "src": "/exercise-images/ever-0166-0.webp",
+        "author": "Everkinetic / Greg Priday",
+        "source": "https://raw.githubusercontent.com/everkinetic/data/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/src/images-web/one-arm-tricep-extension-with-cable-1.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      {
+        "src": "/exercise-images/ever-0166-1.webp",
+        "author": "Everkinetic / Greg Priday",
+        "source": "https://raw.githubusercontent.com/everkinetic/data/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/src/images-web/one-arm-tricep-extension-with-cable-2.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      }
+    ]
+  },
+  "Reverse Grip Cable Pushdown": {
+    "images": [
+      {
+        "src": "/exercise-images/ever-0189-0.webp",
+        "author": "Everkinetic / Greg Priday",
+        "source": "https://raw.githubusercontent.com/everkinetic/data/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/src/images-web/reverse-grip-triceps-pushdown-1.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      {
+        "src": "/exercise-images/ever-0189-1.webp",
+        "author": "Everkinetic / Greg Priday",
+        "source": "https://raw.githubusercontent.com/everkinetic/data/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/src/images-web/reverse-grip-triceps-pushdown-2.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      }
+    ]
+  },
+  "EZ Bar Skull Crusher": {
+    "images": [
+      {
+        "src": "/exercise-images/w246-0.webp",
+        "author": "Everkinetic",
+        "source": "https://wger.de/media/exercise-images/84/Lying-close-grip-triceps-press-to-chin-1.png",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
+      },
+      {
+        "src": "/exercise-images/w246-1.webp",
+        "author": "Everkinetic",
+        "source": "https://wger.de/media/exercise-images/84/Lying-close-grip-triceps-press-to-chin-2.png",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
+      }
+    ]
+  },
+  "Dumbbell Skull Crusher": {
+    "images": [
+      {
+        "src": "/exercise-images/ever-0181-0.webp",
+        "author": "Everkinetic / Greg Priday",
+        "source": "https://raw.githubusercontent.com/everkinetic/data/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/src/images-web/lying-triceps-extension-with-dumbbells-1.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      {
+        "src": "/exercise-images/ever-0181-1.webp",
+        "author": "Everkinetic / Greg Priday",
+        "source": "https://raw.githubusercontent.com/everkinetic/data/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/src/images-web/lying-triceps-extension-with-dumbbells-2.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      }
+    ]
+  },
+  "Dumbbell Kickback": {
+    "images": [
+      {
+        "src": "/exercise-images/ever-0204-0.webp",
+        "author": "Everkinetic / Greg Priday",
+        "source": "https://raw.githubusercontent.com/everkinetic/data/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/dist/png/0204-relaxation.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      {
+        "src": "/exercise-images/ever-0204-1.webp",
+        "author": "Everkinetic / Greg Priday",
+        "source": "https://raw.githubusercontent.com/everkinetic/data/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/dist/png/0204-tension.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      }
+    ]
+  },
+  "Close Grip Bench Press": {
+    "images": [
+      {
+        "src": "/exercise-images/ever-0049-0.webp",
+        "author": "Everkinetic / Greg Priday",
+        "source": "https://raw.githubusercontent.com/everkinetic/data/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/src/images-web/close-grip-barbell-bench-press-1.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      {
+        "src": "/exercise-images/ever-0049-1.webp",
+        "author": "Everkinetic / Greg Priday",
+        "source": "https://raw.githubusercontent.com/everkinetic/data/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/src/images-web/close-grip-barbell-bench-press-2.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      }
+    ]
+  },
+  "Triceps Dip Machine": {
+    "images": [
+      {
+        "src": "/exercise-images/ever-0171-0.webp",
+        "author": "Everkinetic / Greg Priday",
+        "source": "https://raw.githubusercontent.com/everkinetic/data/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/src/images-web/tricep-dips-1.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      {
+        "src": "/exercise-images/ever-0171-1.webp",
+        "author": "Everkinetic / Greg Priday",
+        "source": "https://raw.githubusercontent.com/everkinetic/data/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/src/images-web/tricep-dips-2.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      }
+    ]
+  },
+  "Barbell Back Squat": {
+    "images": [
+      {
+        "src": "/exercise-images/ever-0122-0.webp",
+        "author": "Everkinetic / Greg Priday",
+        "source": "https://raw.githubusercontent.com/everkinetic/data/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/src/images-web/barbell-squat-1.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      {
+        "src": "/exercise-images/ever-0122-1.webp",
+        "author": "Everkinetic / Greg Priday",
+        "source": "https://raw.githubusercontent.com/everkinetic/data/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/src/images-web/barbell-squat-2.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      }
+    ]
+  },
+  "Goblet Squat": {
+    "images": [
+      {
+        "src": "/exercise-images/w203-0.webp",
+        "author": "philip",
+        "source": "https://wger.de/media/exercise-images/203/1c052351-2af0-4227-aeb0-244008e4b0a8.jpeg",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      {
+        "src": "/exercise-images/w203-1.webp",
+        "author": "philip",
+        "source": "https://wger.de/media/exercise-images/203/2ab30113-4e08-4d39-9d23-d901ce2c0971.jpeg",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      }
+    ]
+  },
+  "Dumbbell Bulgarian Split Squat": {
+    "images": [
+      {
+        "src": "/exercise-images/w1706-0.webp",
+        "author": "AlucardEvil40",
+        "source": "https://wger.de/media/exercise-images/1706/0c5243cc-2539-4005-aee0-d3a8c5d3a32c.jfif",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      }
+    ]
+  },
+  "Dumbbell Walking Lunge": {
+    "images": [
+      {
+        "src": "/exercise-images/w206-0.webp",
+        "author": "Everkinetic",
+        "source": "https://wger.de/media/exercise-images/113/Walking-lunges-1.png",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
+      },
+      {
+        "src": "/exercise-images/w206-1.webp",
+        "author": "nishant0712",
+        "source": "https://wger.de/media/exercise-images/206/6ec66efd-e74f-4142-bed1-0a0ac74e3294.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      }
+    ]
+  },
+  "Seated Leg Curl": {
+    "images": [
+      {
+        "src": "/exercise-images/ever-0119-0.webp",
+        "author": "Everkinetic / Greg Priday",
+        "source": "https://raw.githubusercontent.com/everkinetic/data/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/src/images-web/seated-leg-curl-1.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      {
+        "src": "/exercise-images/ever-0119-1.webp",
+        "author": "Everkinetic / Greg Priday",
+        "source": "https://raw.githubusercontent.com/everkinetic/data/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/src/images-web/seated-leg-curl-2.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      }
+    ]
+  },
+  "Hack Squat": {
+    "images": [
+      {
+        "src": "/exercise-images/ever-0123-0.webp",
+        "author": "Everkinetic / Greg Priday",
+        "source": "https://raw.githubusercontent.com/everkinetic/data/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/src/images-web/hack-squat-machine-1.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      {
+        "src": "/exercise-images/ever-0123-1.webp",
+        "author": "Everkinetic / Greg Priday",
+        "source": "https://raw.githubusercontent.com/everkinetic/data/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/src/images-web/hack-squat-machine-2.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      }
+    ]
+  },
+  "Hip Abduction Machine": {
+    "images": [
+      {
+        "src": "/exercise-images/ever-0156-0.webp",
+        "author": "Everkinetic / Greg Priday",
+        "source": "https://raw.githubusercontent.com/everkinetic/data/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/src/images-web/thigh-abductor-1.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      {
+        "src": "/exercise-images/ever-0156-1.webp",
+        "author": "Everkinetic / Greg Priday",
+        "source": "https://raw.githubusercontent.com/everkinetic/data/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/src/images-web/thigh-abductor-2.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      }
+    ]
+  },
+  "Hip Adduction Machine": {
+    "images": [
+      {
+        "src": "/exercise-images/ever-0157-0.webp",
+        "author": "Everkinetic / Greg Priday",
+        "source": "https://raw.githubusercontent.com/everkinetic/data/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/src/images-web/thigh-adductor-1.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      {
+        "src": "/exercise-images/ever-0157-1.webp",
+        "author": "Everkinetic / Greg Priday",
+        "source": "https://raw.githubusercontent.com/everkinetic/data/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/src/images-web/thigh-adductor-2.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      }
+    ]
+  },
+  "Seated Calf Raise": {
+    "images": [
+      {
+        "src": "/exercise-images/ever-0279-0.webp",
+        "author": "Everkinetic / Greg Priday",
+        "source": "https://raw.githubusercontent.com/everkinetic/data/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/dist/png/0279-relaxation.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      {
+        "src": "/exercise-images/ever-0279-1.webp",
+        "author": "Everkinetic / Greg Priday",
+        "source": "https://raw.githubusercontent.com/everkinetic/data/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/dist/png/0279-tension.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      }
+    ]
+  },
+  "Reverse Crunch": {
+    "images": [
+      {
+        "src": "/exercise-images/ever-0287-0.webp",
+        "author": "Everkinetic / Greg Priday",
+        "source": "https://raw.githubusercontent.com/everkinetic/data/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/src/images-web/bent-knee-hip-raise-1.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      {
+        "src": "/exercise-images/ever-0287-1.webp",
+        "author": "Everkinetic / Greg Priday",
+        "source": "https://raw.githubusercontent.com/everkinetic/data/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/src/images-web/bent-knee-hip-raise-2.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      }
+    ]
+  },
+  "Bicycle Crunch": {
+    "images": [
+      {
+        "src": "/exercise-images/ever-0284-0.webp",
+        "author": "Everkinetic / Greg Priday",
+        "source": "https://raw.githubusercontent.com/everkinetic/data/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/src/images-web/air-bike-1.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      {
+        "src": "/exercise-images/ever-0284-1.webp",
+        "author": "Everkinetic / Greg Priday",
+        "source": "https://raw.githubusercontent.com/everkinetic/data/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/src/images-web/air-bike-2.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      }
+    ]
+  },
+  "Russian Twist": {
+    "images": [
+      {
+        "src": "/exercise-images/w1193-0.webp",
+        "author": "lion",
+        "source": "https://wger.de/media/exercise-images/1193/70ca5d80-3847-4a8c-8882-c6e9e485e29e.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      }
+    ]
+  },
+  "Ab Wheel Rollout": {
+    "images": [
+      {
+        "src": "/exercise-images/guide-ab-wheel-1.webp",
+        "author": "Bryl Lim / Everkinetic",
+        "source": "https://raw.githubusercontent.com/bryllim/workout-guide/aac599224bb9780305239607ef98540b7e0ce389/packages/workout-guide/assets/ab-wheel/frame-1.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      {
+        "src": "/exercise-images/guide-ab-wheel-2.webp",
+        "author": "Bryl Lim / Everkinetic",
+        "source": "https://raw.githubusercontent.com/bryllim/workout-guide/aac599224bb9780305239607ef98540b7e0ce389/packages/workout-guide/assets/ab-wheel/frame-2.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      }
+    ]
+  },
+  "Face Pull": {
+    "images": [
+      {
+        "src": "/exercise-images/guide-face-pull-1.webp",
+        "author": "Bryl Lim / Everkinetic",
+        "source": "https://raw.githubusercontent.com/bryllim/workout-guide/aac599224bb9780305239607ef98540b7e0ce389/packages/workout-guide/assets/face-pull/frame-1.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      {
+        "src": "/exercise-images/guide-face-pull-2.webp",
+        "author": "Bryl Lim / Everkinetic",
+        "source": "https://raw.githubusercontent.com/bryllim/workout-guide/aac599224bb9780305239607ef98540b7e0ce389/packages/workout-guide/assets/face-pull/frame-2.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      }
+    ]
+  },
+  "Barbell Hip Thrust": {
+    "images": [
+      {
+        "src": "/exercise-images/guide-hip-thrust-1.webp",
+        "author": "Bryl Lim / Everkinetic",
+        "source": "https://raw.githubusercontent.com/bryllim/workout-guide/aac599224bb9780305239607ef98540b7e0ce389/packages/workout-guide/assets/hip-thrust/frame-1.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      {
+        "src": "/exercise-images/guide-hip-thrust-2.webp",
+        "author": "Bryl Lim / Everkinetic",
+        "source": "https://raw.githubusercontent.com/bryllim/workout-guide/aac599224bb9780305239607ef98540b7e0ce389/packages/workout-guide/assets/hip-thrust/frame-2.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      }
+    ]
+  },
+  "Hanging Knee Raise": {
+    "images": [
+      {
+        "src": "/exercise-images/guide-hanging-knee-raise-1.webp",
+        "author": "Bryl Lim / Everkinetic",
+        "source": "https://raw.githubusercontent.com/bryllim/workout-guide/aac599224bb9780305239607ef98540b7e0ce389/packages/workout-guide/assets/hanging-knee-raise/frame-1.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      {
+        "src": "/exercise-images/guide-hanging-knee-raise-2.webp",
+        "author": "Bryl Lim / Everkinetic",
+        "source": "https://raw.githubusercontent.com/bryllim/workout-guide/aac599224bb9780305239607ef98540b7e0ce389/packages/workout-guide/assets/hanging-knee-raise/frame-2.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      }
+    ]
+  },
+  "Captain’s Chair Knee Raise": {
+    "images": [
+      {
+        "src": "/exercise-images/guide-captains-chair-knee-raise-1.webp",
+        "author": "Bryl Lim / Everkinetic",
+        "source": "https://raw.githubusercontent.com/bryllim/workout-guide/aac599224bb9780305239607ef98540b7e0ce389/packages/workout-guide/assets/captains-chair-knee-raise/frame-1.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      {
+        "src": "/exercise-images/guide-captains-chair-knee-raise-2.webp",
+        "author": "Bryl Lim / Everkinetic",
+        "source": "https://raw.githubusercontent.com/bryllim/workout-guide/aac599224bb9780305239607ef98540b7e0ce389/packages/workout-guide/assets/captains-chair-knee-raise/frame-2.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      }
+    ]
+  },
+  "Cable Woodchop": {
+    "images": [
+      {
+        "src": "/exercise-images/guide-cable-woodchop-1.webp",
+        "author": "Bryl Lim / Everkinetic",
+        "source": "https://raw.githubusercontent.com/bryllim/workout-guide/aac599224bb9780305239607ef98540b7e0ce389/packages/workout-guide/assets/cable-woodchop/frame-1.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      {
+        "src": "/exercise-images/guide-cable-woodchop-2.webp",
+        "author": "Bryl Lim / Everkinetic",
+        "source": "https://raw.githubusercontent.com/bryllim/workout-guide/aac599224bb9780305239607ef98540b7e0ce389/packages/workout-guide/assets/cable-woodchop/frame-2.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      }
+    ]
+  },
+  "Dead Bug": {
+    "images": [
+      {
+        "src": "/exercise-images/guide-dead-bug-1.webp",
+        "author": "Bryl Lim / Everkinetic",
+        "source": "https://raw.githubusercontent.com/bryllim/workout-guide/aac599224bb9780305239607ef98540b7e0ce389/packages/workout-guide/assets/dead-bug/frame-1.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      {
+        "src": "/exercise-images/guide-dead-bug-2.webp",
+        "author": "Bryl Lim / Everkinetic",
+        "source": "https://raw.githubusercontent.com/bryllim/workout-guide/aac599224bb9780305239607ef98540b7e0ce389/packages/workout-guide/assets/dead-bug/frame-2.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      }
+    ]
+  },
+  "Glute Bridge (Matta Kalça Köprüsü)": {
+    "images": [
+      {
+        "src": "/exercise-images/mat-bridging-1.webp",
+        "author": "Everkinetic / Greg Priday",
+        "source": "https://raw.githubusercontent.com/everkinetic/data/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/src/images-web/bridging-1.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      {
+        "src": "/exercise-images/mat-bridging-2.webp",
+        "author": "Everkinetic / Greg Priday",
+        "source": "https://raw.githubusercontent.com/everkinetic/data/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/src/images-web/bridging-2.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      }
+    ],
+    "note": "Omuzlar zeminde kalırken kalça aşağıdan yukarıya kalkar. Dizler bükülü, ayaklar yerde; dış ağırlık kullanılmaz."
+  },
+  "Sit-up (Mekik)": {
+    "images": [
+      {
+        "src": "/exercise-images/mat-sit-up-0.webp",
+        "author": "yuhonas / free-exercise-db contributors (photographer not identified)",
+        "source": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/f00c92c7dcf1216a928a52c3706c7ce8e2f71ed5/exercises/Sit-Up/0.jpg",
+        "license": "Unlicense",
+        "licenseUrl": "https://unlicense.org/"
+      },
+      {
+        "src": "/exercise-images/mat-sit-up-1.webp",
+        "author": "yuhonas / free-exercise-db contributors (photographer not identified)",
+        "source": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/f00c92c7dcf1216a928a52c3706c7ce8e2f71ed5/exercises/Sit-Up/1.jpg",
+        "license": "Unlicense",
+        "licenseUrl": "https://unlicense.org/"
+      }
+    ],
+    "note": "Dizler bükülü ve ayaklar sabitken gövde mattan yukarı kalkar. Fotoğraftaki ağırlıklar ayakları sabitlemek için kullanılmış; elde ağırlık yok."
+  },
+  "Plank": {
+    "images": [
+      {
+        "src": "/exercise-images/mat-plank-0.webp",
+        "author": "utkb",
+        "source": "https://wger.de/media/exercise-images/458/b7bd9c28-9f1d-4647-bd17-ab6a3adf5770.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      }
+    ],
+    "note": "Ön kollar ve ayak uçları zeminde; gövde düz bir çizgide tutulur."
+  },
+  "Side Plank (Yan Plank)": {
+    "images": [
+      {
+        "src": "/exercise-images/mat-side-plank-1.webp",
+        "author": "Everkinetic / Greg Priday",
+        "source": "https://raw.githubusercontent.com/everkinetic/data/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/src/images-web/side-plank-1.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      {
+        "src": "/exercise-images/mat-side-plank-2.webp",
+        "author": "Everkinetic / Greg Priday",
+        "source": "https://raw.githubusercontent.com/everkinetic/data/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/src/images-web/side-plank-2.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      }
+    ],
+    "note": "Ön kol ve ayak desteğiyle gövde yan pozisyonda tutulur. İlk görsel tutuşu, ikinci görsel yere yakın başlangıcı gösterir."
+  }
+}
